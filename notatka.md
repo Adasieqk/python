@@ -214,7 +214,7 @@ import math as m
 pierwiastek = m.sqrt(16)
 ```
 
-## Algorytmy (INF.03)
+## Algorytmy
 
 ### Sprawdzanie liczby pierwszej
 Liczba pierwsza dzieli się tylko przez 1 i samą siebie. Zaczynamy sprawdzać dzielniki od 2.
